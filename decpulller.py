@@ -80,5 +80,6 @@ for record in dec_obj['Records']:
 		saveResponse(res[0], "downloads/" + filename)
 
 # numRecords = str(len(dec_obj['Records']))
+
 # print ( str(dec_obj['RecordsFound'] )+ " should equal " + numRecords )
 
