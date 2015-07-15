@@ -1,6 +1,6 @@
 dist/**
 __pycache__/**
 venv/**
-**/.pdf
+**/*.pdf
 downloads/**
-**/.txt
+**/*.txt
